@@ -14,7 +14,7 @@ A command-line Python program to manage your personal book collection. This tool
 
 ---
 
-### **🛠How to Run**  
+### **How to Run**  
 1. Clone the repository:  
 git clone https://github.com/username/repo-name.git
 
